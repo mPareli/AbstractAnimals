@@ -8,6 +8,8 @@ class Program
         myHouse.Add(new Cat());
         myHouse.Add(new Mouse());
         myHouse.Add(new Parrot());
+        myHouse.Add(new Rat());
+        myHouse.Add(new Dog());
 
         foreach (Animals animals in myHouse)
         {
